@@ -1,9 +1,9 @@
 ```
 [onebitBoy@GitHub ~]$ whoami
 life: whoami: purpose not found...
-similar purpose is: 'h4acking'
+similar purpose is: 'h4cking'
 
-[onebitBoy@GitHub ~]$ h4acking
+[onebitBoy@GitHub ~]$ h4cking
 [*] please wait still compiling skills 
 ```
 
