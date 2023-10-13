@@ -12,4 +12,6 @@ similar purpose is: 'h4acking'
 You can click the Preview link to take a look at your changes.
 --->
 
-%% Make something, that truly showcase what i exactly know, not more than that, and in a creative way, not display extra stuff for coolness, just what i new in a creative way, that looks cool. in future i want to make a profile page that looks like i am executing a binary and then all the details are listed and printed on the console, using javascript or typescript%%
+<!---
+Make something, that truly showcase what i exactly know, not more than that, and in a creative way, not display extra stuff for coolness, just what i new in a creative way, that looks cool. in future i want to make a profile page that looks like i am executing a binary and then all the details are listed and printed on the console, using javascript or typescript
+--->
