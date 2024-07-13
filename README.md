@@ -1,11 +1,13 @@
 ```
-[onebitBoy@GitHub ~]$ whoami
+[oneByteBoy@GitHub ~]$ whoami
 life: whoami: purpose not found...
 similar purpose is: 'h4cking'
 
-[onebitBoy@GitHub ~]$ h4cking
+[oneByteBoy@GitHub ~]$ h4cking
 [*] please wait still compiling skills 
 ```
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=1byteBoy&theme=gotham&hide_border=true)](https://git.io/streak-stats) 
 
 <!---
 1byteBoy/1byteBoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
