@@ -10,7 +10,8 @@ similar purpose is: 'h4cking'
 [![GitHub Streak](https://streak-stats.demolab.com?user=1byteBoy&theme=gotham&hide_border=true)](https://git.io/streak-stats) 
 
 
-> [!NOTE] Most project are under development and is kept private. Standby 
+> [!IMPORTANT] 
+> Most project are under development and is being kept private. Standby  
 
 <!---
 1byteBoy/1byteBoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
