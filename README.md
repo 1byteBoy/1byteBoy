@@ -13,6 +13,10 @@ similar purpose is: 'h4cking'
 > [!IMPORTANT] 
 > Most project are under development and is being kept private. Standby  
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/472ed04e-cd34-4ed0-90ef-0e696e4c1350">
+</p>
+
 <!---
 1byteBoy/1byteBoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
