@@ -6,13 +6,6 @@ similar purpose is: 'h4cking'
 [oneByteBoy@GitHub ~]$ h4cking
 [*] please wait still compiling skills 
 ```
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=1byteBoy&theme=gotham&hide_border=true)](https://git.io/streak-stats) 
-
-
-> [!IMPORTANT] 
-> Most project are under development and is being kept private. Standby  
-
 <p align="center">
 <img src="https://github.com/user-attachments/assets/472ed04e-cd34-4ed0-90ef-0e696e4c1350">
 </p>
